@@ -22,6 +22,7 @@ declare -A ICON_MAP=(
     ["ChatGPT"]="chatgpt com.openai.ChatGPT"
     ["VLC"]="vlc org.videolan.VLC"
     ["Raycast"]="vicinae"
+    ["Launchpad"]="view-app-grid applications-all start-here"
 )
 
 png_to_svg() {
