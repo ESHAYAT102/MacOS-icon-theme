@@ -21,6 +21,7 @@ declare -A ICON_MAP=(
     ["Zen"]="zen-browser zen_browser app.zen_browser.zen zen-icon"
     ["ChatGPT"]="chatgpt com.openai.ChatGPT"
     ["VLC"]="vlc org.videolan.VLC"
+    ["Raycast"]="vicinae"
 )
 
 png_to_svg() {
